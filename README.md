@@ -68,7 +68,7 @@ As seguintes bibliotecas Python foram utilizadas ao longo do projeto:
 - `matplotlib.pyplot` – criação de gráficos
 - `seaborn` – visualizações estatísticas mais elegantes
 - `logging` – gerenciamento de logs de execução
-- `prophet` – modelo de previsão de séries temporais (desenvolvido pela Meta)
+- `prophet` – modelo de previsão de séries temporais
 - `sklearn.metrics` – avaliação do desempenho preditivo (MAE, RMSE)
 
 ## Contribuições
